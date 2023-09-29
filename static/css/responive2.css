@@ -1,0 +1,399 @@
+@media only screen and (min-width:1000px) and (max-width:1199px) {
+    .main-center  .features .margin_row{
+        margin-top:-20px;
+        margin-bottom:0px;
+    }
+
+    .features .row .location_pa .lets-packk{
+        width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .responive1{
+        margin-bottom: 150px;
+     } 
+
+
+}
+@media only screen and (max-width:767px) {
+    .row .col{
+        height: 500px;
+    }
+    .row .responivee2{
+        width: 90%;
+        height: 60%;
+    }
+    /* start page index */
+    .row .responivee2 .paddiv{
+        margin-left: 0px;
+    }
+    .main-center  .features .margin_row{
+        margin-top:-60px;
+        margin-bottom:0px;
+    }
+    .main-center .features{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .features .row .location_pa{
+        align-items: center;
+        padding-top:0px ;
+        padding-left: 0px;
+    }
+    .features .row .location_pa .lets-packk{
+
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .responive1 h6{
+        font-size: 15px;
+        
+     } 
+     .responive1 h5{
+        font-size: 20px;
+  
+     } 
+     .responive1{
+        margin-bottom: 0px;
+        padding-top: 40px;
+     } 
+     .row .button2{
+        width: 50%;
+        font-size: 10px;
+        padding: 8px;
+    }
+    .responnive-zero .mar1{
+        font-size: 10px;
+    }
+    .responnive-zero img{
+        width:40%;
+    }
+    .responnive-zero .mar1{
+        margin-top: 10px;
+    }
+    .features .margin-6 {
+       align-items: center;
+       justify-content: center;
+    }
+    .row .margin_div{
+        width: 80%;
+        margin: 0px;
+    }
+    /* .row .block1{
+        margin: 0px;
+      }
+    .row  .block2{
+        margin: 0px;
+      } */
+      .row  .style {
+        width: 85%;
+        background-color:#EBEBEB;
+        padding: 20px 0;
+        border-radius: 15px;
+        position: relative; 
+      }
+     .row .bordergray{
+        border: 1px solid gray;
+        width: 95%;
+        border-radius: 10px;
+    }
+    .features .icon img{
+        width: 30%;
+    }
+    .features .icon .coll-t1 {
+        width: 60%;
+    }
+    .features .icon .coll-t1 .t1-container8,
+    .features .icon .coll-t1 .t2-container8
+    {
+        width: 90%;
+    }
+    .features .icon .button_send{
+        width: 40%;
+    }
+   .features .margin-6{
+        margin-left: 5%;
+    }
+ .row .responive144{
+        margin-left: 5px;
+        padding-top: 0px;
+        padding-left: 0px;
+            
+        }
+        .responive144 .button4{
+         width: 50%;
+            
+        }
+        .features .features .wowbeo{
+            width: 80%;
+            margin: auto;
+        }
+        .features  .wowbeo .padingg .backcolormain {
+            padding: 4px;
+        }
+        .features .wowbeo .locaation .paddingg{
+            margin: -10px;
+            padding: 5px;
+
+        }
+        .features .wowbeo .locaation {
+                width: 100%;
+                margin-left: -10px;
+        }
+        .features .wowbeo .locaation img{
+           width: 19%;
+        }
+        .features .icon .view{
+            width: 69%;
+        }
+    /* end page index */
+    .row .paddiv{
+        margin-left: 30px; 
+   }
+    .row .col{
+        margin-left: 0px;
+    }
+    .row .col .backWhite{
+        background-color:white ;
+        padding: 30px;
+        
+    }
+  .responivve1 .icon img {
+        width: 15%;
+        margin: auto;
+    }
+    .responivve1 .icon {
+        font-size: 10px;
+    }
+    .responivve1 .icon .coll-t1 .send-now{ 
+        
+        font-size: 10px;
+       margin-top: 0px;
+        width: 50%;
+        padding: 10px;
+        text-align: center;
+    }
+     .responivve1 .icon .coll-t1 .t1-container8{ 
+        font-size: 10px;
+    }
+}
+@media only screen and (min-width:767px) and (max-width:991px) {
+    .main-center  .features .margin_row{
+        margin-top:-60px;
+        margin-bottom:0px;
+    }
+   .row .location_pa{
+    padding-left: 100px;
+    padding-bottom: 30px;
+   }
+   .row .location_pa .lets-packk{
+    position: relative;
+        width: 50%;
+        left: 70px;
+   }
+    .row .responive144{
+        margin-left: 10px;
+        padding-top: 0px;
+        padding-left: 0px;
+            
+        }
+        .row .responive13{
+            padding: 0px;
+            margin: 0px;
+            position: relative;
+            right: 80px;
+
+        }
+        .row  .responive144 .button4{
+         width: 30%;
+        }
+        .features .icon .view{
+            width: 30%;
+        }
+        .row .responive13{
+            padding-left: 200px;
+        }
+        .row .location_pa .lets-packk{
+            margin-left: 80px;
+        }
+        .row .location_pa{
+            margin-left: -80px;
+        }
+        
+}
+@media only screen and (max-width:400px)
+{
+    .row .block1 .display .location-text,
+    .row .block2 .display .location-text{
+        position: absolute;
+       right: 0px;
+    }
+    .row .block1 .display .location-img,
+    .row .block2 .display .location-img{
+        
+        margin-left: 0px;
+    }
+    .features .features .wowbeo{
+        width: 100%;
+        height: 340px;
+        margin: auto;
+    }
+    .features  .wowbeo .padingg .backcolormain {
+        padding: 3px;
+        font-size: 15px;
+    }
+    .features  .wowbeo .padingg {
+        padding: 3px;
+        margin: 5px;
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .features .wowbeo .locaation .paddingg{
+        margin: 5px;
+        padding: 0px;
+
+    }
+    .features .wowbeo .locaation {
+            width: 100%;
+            margin-left: -20px;
+            margin-top: 20px;
+    }
+    .features .wowbeo .locaation h4{
+            width: 100%;
+            margin-left: -10px;
+            font-size: 20;
+    }
+    .features .wowbeo .locaation h5{
+            width: 100%;
+            margin-left: -20px;
+            font-size: 17px;
+    }
+    .features .wowbeo .locaation img{
+       width: 15%;
+    }
+
+   .row .responivee2 label,
+.row .responivee2 div
+{
+    font-size: 8px;
+}
+.row .responivee2 input,
+.row .responivee2 textarea
+{
+    font-size: 5px;
+}
+.row .responivee2 .loc
+{
+    margin-top: -15%;
+    font-size: 10px;
+}
+.row .responivee2 .margleft2
+{
+    margin-left: 35%
+}
+.row .responivee2 .name
+{
+    font-size:8px;
+}
+.paddingdiv{
+    padding: 2px;
+}
+.row .responivee2  .bb{
+    width: 48px;
+    font-size: 6px;
+    padding: 5px;
+    
+    text-align: center;
+    margin-bottom: 5px;
+   
+}
+.row .responivee2  .btn{
+    width: 60px;
+    font-size: 7px;
+    padding: 2px;
+}
+.row .responivee2  .size{
+    
+    margin-left: 10px;
+}
+.row .responivee2  .size1{
+    
+    margin: auto;
+    text-align: center;
+}
+.row .responivee2 .btn{
+    width: 30%;
+}
+
+}
+@media only screen and (max-width:351px){
+    .row .block1 .display .location-text,
+    .row .block2 .display .location-text{
+        position: absolute;
+       right: -10px;
+    }
+    .row .block1 .display .location-img,
+    .row .block2 .display .location-img{
+        
+        margin-left: 0px;
+    }
+    .row .block1 .display img,
+    .row .block2 .display img{
+        width: 60%;       
+        margin-left: -20px; 
+    }
+    .row .block1 .display .t1-itemes1,
+    .row .block2 .display .t1-itemes1{
+        font-size: 15px;
+    }
+    .row .block1 .display .t2-itemes1,
+    .row .block2 .display .t2-itemes1{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:212px)
+
+{
+    .main-center  .features .margin_row{
+        margin-top:0px;
+        margin-bottom:0px;
+    }
+    .features .features .wowbeo{
+        width: 100%;
+        height: 240px;
+        margin: auto;
+    }
+    .features  .wowbeo .padingg .backcolormain {
+        padding: 3px;
+        font-size: 10px;
+    }
+    .features  .wowbeo .padingg {
+        padding: 3px;
+        margin: 5px;
+        margin-top: 20px;
+        font-size: 14px;
+    }
+    .features .wowbeo .locaation .paddingg{
+        margin: 0px;
+        padding: 0px;
+
+    }
+    .features .wowbeo .locaation {
+            width: 100%;
+            margin-left: -20px;
+    }
+    .features .wowbeo .locaation h4{
+            width: 100%;
+            margin-left: -10px;
+            font-size: 13px;
+    }
+    .features .wowbeo .locaation h5{
+            width: 100%;
+            margin-left: -20px;
+            font-size: 12px;
+    }
+    .features .wowbeo .locaation img{
+       width: 15%;
+    }
+}
