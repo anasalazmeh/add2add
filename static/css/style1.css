@@ -1532,3 +1532,33 @@ font{
     padding-top: 50px;
     margin-left: -23px;
 }
+.movement-bottom{
+    animation-name: movement-bottom;
+    animation-duration: 1s;
+    transition: all 1s;
+}
+.movement-left{
+    animation-name: movement-left;
+    animation-duration: 1s;
+    transition: all 1s;
+}
+@keyframes movement-bottom {
+    from{
+        transform: translateY(100%);
+       visibility: hidden;
+    }
+    to{
+        transform: translateY(0%);
+
+    }
+}
+@keyframes movement-left {
+    from{
+        transform: translateX(100%);
+       visibility: hidden;
+    }
+    to{
+        transform: translateX(0%);
+
+    }
+}
